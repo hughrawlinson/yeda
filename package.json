@@ -1,0 +1,26 @@
+{
+  "name": "yeda",
+  "version": "0.0.1",
+  "description": "Higher Level Audio Features for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughrawlinson/yeda.git"
+  },
+  "keywords": [
+    "audio",
+    "machine-learning",
+    "audio-features",
+    "music",
+    "meyda"
+  ],
+  "author": "Hugh Rawlinson <mu202hr@gold.ac.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hughrawlinson/yeda/issues"
+  },
+  "homepage": "https://github.com/hughrawlinson/yeda#readme"
+}
